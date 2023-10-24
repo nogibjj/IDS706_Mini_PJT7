@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 # make sure the etl script outputs properly
 
 setup(
-    name="ETLpipelineTinaYi",
+    name="ETLpipelineJiwonShin",
     version="0.1.0",
     description="ETLpipline",
     author="Jiwon Shin",
