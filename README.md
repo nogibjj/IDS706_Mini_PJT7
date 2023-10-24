@@ -1,4 +1,4 @@
-## Overview - test2
+## Overview - t
 The objective of this project is to create an ETL-Query pipeline using Databricks to streamline data extraction, transformation, loading, and querying. This involves packaging the project as a command-line tool and interfacing with a SQL Database on Azure Databricks. By loading data into the Databricks SQL warehouse, it enables the execution of complex queries. The pipeline offers users the flexibility to execute each ETL phase independently or the entire process with a single command. The project centers on establishing a cloud-based database and executing data queries through Azure Databricks, encompassing two main components: the development of a data pipeline and the creation of queries, including data joins and aggregations. 
 
 * A [user guide](https://github.com/nogibjj/IDS706_Mini_PJT7/blob/main/user_guide.md) is provided for reference.
